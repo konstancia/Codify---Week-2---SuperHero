@@ -1,0 +1,84 @@
+body {
+
+	margin: 10px;
+}
+
+
+ul {
+
+	padding:0;
+
+}
+
+h1 {
+
+	font-size: 2em;
+}
+
+
+.nav {
+
+background-color: none;
+margin: 50px;
+padding: none;
+text-align: center;
+
+}
+
+li {
+
+background-color: green;
+display: inline-block; ;
+margin: 10px;
+padding: 20px;
+
+}
+
+a {
+
+color: black;
+text-decoration: underline;
+
+}
+
+section {
+
+background-color: none;
+text-align: center;
+
+
+}
+
+.box {
+
+float: left;
+width: 33.333333333%;
+}
+
+img {
+
+height: 300px;
+width: 300px;
+object-fit: cover;
+
+
+}
+
+p {
+	background-color: none;
+	border: 20px;
+	height: 350px;
+	margin: 20px;
+	padding: 5px;;
+}
+
+
+
+
+
+
+
+
+
+
+
